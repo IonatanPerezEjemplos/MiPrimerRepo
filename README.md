@@ -1,2 +1,2 @@
 # MiPrimerRepo
-En este repo voy a porbar cosas por primer vez sobre como usar git
+En este repo voy a probar cosas por primer vez sobre como usar git
